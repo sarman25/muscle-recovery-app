@@ -1,2 +1,4 @@
-# muscle-recovery-app
-Telegram Mini App для анализа восстановления групп мышц (FastAPI + React).
+# Muscle Recovery App
+Приложение для фитнес-аналитики.
+- Стек: Python (FastAPI), React, PostgreSQL.
+- Функционал: Расчет времени восстановления мышц, Telegram бот.
